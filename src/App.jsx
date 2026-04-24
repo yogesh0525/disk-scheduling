@@ -9,7 +9,7 @@ function App() {
     <SimulationProvider>
       <div className="container">
         <header>
-          <h1 className="gradient-text">NovaDisk</h1>
+          <h1 className="gradient-text">YOGESH's Disk</h1>
           <p>Advanced Disk Scheduling Algorithm Simulator</p>
         </header>
         
